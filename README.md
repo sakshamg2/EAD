@@ -10,6 +10,6 @@ EAD labs and Assignment
 
     - [Lab 2 - Singleton Design pattern](https://github.com/sakshamg2/EAD/tree/main/Labs/Lab-2)
 
-    - [Lab 3 - Factory Design pattern](https://github.com/sakshamg2EAD/tree/main/Labs/Lab-3)
+    - [Lab 3 - Factory Design pattern](https://github.com/sakshamg2/EAD/tree/main/Labs/Lab-3)
 
     - [Lab 4 - Servlet Form](https://github.com/sakshamg2/EAD/tree/main/Labs/Lab-4)
